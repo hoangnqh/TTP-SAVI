@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SAVI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SAVI_jar</output-path>
+    <root id="archive" name="SAVI.jar">
+      <element id="module-output" name="SAVI" />
+    </root>
+  </artifact>
+</component>
